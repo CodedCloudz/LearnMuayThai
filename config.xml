@@ -13,13 +13,13 @@
 </platform>
 <preference name="phonegap-version" value="cli-6.2.0" />
 <preference name="xwalkMultipleApk" value="false" />
-<plugin name="cordova-admob-sdklibs" spec="2.1.4"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
-<plugin name="cordova-plugin-admob-simple" spec="3.1.8"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
-<plugin name="cordova-plugin-device" spec="1.1.2"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
-<plugin name="cordova-plugin-dialogs" spec="1.2.1"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
-<plugin name="cordova-plugin-network-information" spec="1.2.1"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
-<plugin name="cordova-plugin-screen-orientation" spec="1.4.0"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
-<plugin name="cordova-plugin-whitelist" spec="1.2.2"/>
+<plugin name="cordova-admob-sdklibs"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
+<plugin name="cordova-plugin-admob-simple"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
+<plugin name="cordova-plugin-device"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
+<plugin name="cordova-plugin-dialogs"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
+<plugin name="cordova-plugin-network-information"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
+<plugin name="cordova-plugin-screen-orientation"/> <!-- Locally imported plugins may not work if the plugin is private or modified. -->
+<plugin name="cordova-plugin-whitelist"/>
 <platform  name="ios">
     <!-- below requires the splash screen plugin -->
     <!-- docs: https://github.com/apache/cordova-plugin-splashscreen -->
